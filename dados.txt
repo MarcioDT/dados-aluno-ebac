@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Marcio Della Torre
+-Profissão: Analista de Sistemas
+-Cidade: Piracicaba
+-O que faz nas horas vaga: Jogo videogame
+-Feedback sobre o curso Qualidade de Software: O curso tem side de grande ajuda!
+-Feedback sobre a plataforma de estudo da EBAC: É uma plataforma amigavel e de facil entendimento.
 
 Obrigado!!!
 
